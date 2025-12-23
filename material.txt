@@ -1,0 +1,5 @@
+thread pool - https://habr.com/ru/articles/656515/
+многопоточность - https://habr.com/ru/articles/738250/
+процессоры - https://pyatilistnik.org/difference-between-physical-cores-and-logical-processors/
+semaphore - https://radioprog.ru/post/1411
+

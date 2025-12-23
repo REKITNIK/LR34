@@ -1,0 +1,3 @@
+/home/cage/Desktop/lab4/ex1/build/CMakeFiles/thread_race.dir
+/home/cage/Desktop/lab4/ex1/build/CMakeFiles/edit_cache.dir
+/home/cage/Desktop/lab4/ex1/build/CMakeFiles/rebuild_cache.dir
